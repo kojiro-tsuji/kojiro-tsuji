@@ -1,0 +1,5 @@
+# このリポジトリは公開のプロフィール用。Harness の記録と設定は手元だけに置く（2026-11-10）
+.claude/
+team/
+CLAUDE.md
+node_modules/
