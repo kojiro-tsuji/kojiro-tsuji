@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About
 
-- 🛠️ Web・モバイル・デスクトップのアプリを、企画からデザイン・公開まで1人で作っています
+- 🛠️ Web・モバイル・デスクトップのアプリを、企画からデザイン・公開まで1人で作っています（App Store で公開中のアプリあり）
 - ⏱️ 最近のテーマは **「時間の記録」**。計った時間をそのままカレンダーに残すアプリを作っています
 - 🤖 AI エージェントのチーム（実装・レビュー役）と一緒に開発する仕組みを、自分で組んで使っています
 - 🔒 入力したデータを外に送らない、ブラウザや端末の中で完結する設計が好きです
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Skia-E34F26?style=flat-square&logo=skia&logoColor=white" alt="Skia" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=wails&logoColor=white" alt="Wails" />
@@ -37,10 +38,15 @@
 
 ## 🚀 Projects
 
-### 📱 PunKard — *coming soon (iOS / Android)*
+### 📱 Mobile Apps
 
-カードをめくって時間を計り、計った時間帯を端末のカレンダーに予定として残すアプリ。ホーム画面だけで毎日の操作が終わる、スワイプ中心の設計です。
-`Expo` `React Native` `TypeScript`
+| | Product | 内容 | Tech |
+|---|---|---|---|
+| 🃏 | **リンタン（Rintan）**<br>[App Store](https://apps.apple.com/jp/app/id6824786446) · [製品ページ](https://kojiro-tsuji.github.io/rintan-site/) | 紙の単語カードのように、めくって覚える単語帳。右スワイプで「できた」、左で「できない」。学習を続けると、画面の上に住むキャラクターのもとにアイテムやともだちが増えていく | Expo · React Native · TypeScript |
+| 🌸 | **紋 aya**<br>[製品ページ](https://kojiro-tsuji.github.io/aya-site/) | QRコードを読むと、その中身から一つだけの紋様が生まれて図鑑に集まる iOS アプリ。集めた紋様は壁紙や印刷用の作品にできる。サーバーなし | Expo · React Native · Skia |
+| ⏱️ | **PunKard**<br>*coming soon (iOS / Android)* | カードをめくって時間を計り、計った時間帯を端末のカレンダーに予定として残す。ホーム画面だけで毎日の操作が終わる、スワイプ中心の設計 | Expo · React Native · TypeScript |
+
+> ソースコードは非公開です。 / Source code is private.
 
 ### 🌐 Web Apps
 
