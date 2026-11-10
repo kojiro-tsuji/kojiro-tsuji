@@ -29,7 +29,7 @@ I design, build and ship mobile, web and desktop apps on my own.
 | | App | 内容 | Tech |
 |---|---|---|---|
 | <img src="assets/icons/rintan.png" width="48" alt="リンタン"> | **リンタン（Rintan）**<br>[App Store](https://apps.apple.com/jp/app/id6824786446) · [製品ページ](https://kojiro-tsuji.github.io/rintan-site/) | 紙の単語カードのように、スワイプでめくって覚える単語帳 | Expo · React Native |
-| <img src="assets/icons/aya.png" width="48" alt="紋 aya"> | **紋 aya**<br>[製品ページ](https://kojiro-tsuji.github.io/aya-site/) | QR コードの中身から一つだけの紋様が生まれ、図鑑に集まる iOS アプリ | Expo · React Native · Skia |
+| <img src="assets/icons/aya.png" width="48" alt="紋 aya"> | **紋 aya**<br>[App Store](https://apps.apple.com/jp/app/id6827409705) · [製品ページ](https://kojiro-tsuji.github.io/aya-site/) | QR コードの中身から一つだけの紋様が生まれ、図鑑に集まる iOS アプリ | Expo · React Native · Skia |
 | <img src="assets/icons/punkard.png" width="48" alt="PunKard"> | **PunKard**<br>*Coming soon* | カードをめくって時間を計り、端末のカレンダーに記録する | Expo · React Native |
 
 ### Web
