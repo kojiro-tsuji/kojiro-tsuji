@@ -48,3 +48,9 @@ I design, build and ship mobile, web and desktop apps on my own.
 |---|---|---|
 | **[Clipboard Manager](https://github.com/kojiro-tsuji/Clibor-clone)** | クリップボードの履歴と定型文を管理するツール | Go · Wails |
 | **[cursor-mood-app](https://github.com/kojiro-tsuji/cursor-mood-app)** | タスクトレイからマウスカーソルを切り替える常駐ツール | Go |
+
+### AI Development
+
+| Project | 内容 | Tech |
+|---|---|---|
+| **[ai-team-harness](https://github.com/kojiro-tsuji/ai-team-harness)** | Claude Code の AI エージェントを「チーム」として動かす、自分用の開発基盤。作る役と確かめる役を分け、危ない操作だけを実行の直前で止めて聞く | Claude Code · Node.js |
