@@ -48,10 +48,3 @@ I design, build and ship mobile, web and desktop apps on my own.
 |---|---|---|
 | **[Clipboard Manager](https://github.com/kojiro-tsuji/Clibor-clone)** | クリップボードの履歴と定型文を管理するツール | Go · Wails |
 | **[cursor-mood-app](https://github.com/kojiro-tsuji/cursor-mood-app)** | タスクトレイからマウスカーソルを切り替える常駐ツール | Go |
-
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kojiro-tsuji&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojiro-tsuji&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
